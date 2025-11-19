@@ -1,0 +1,5 @@
+{
+  "name": "SGD to MYR Exchange Rate Monitor",
+  "description": "A web application that monitors the SGD to MYR exchange rate every 30 minutes from a free API and sends a browser notification if the rate exceeds a specific threshold.",
+  "requestFramePermissions": []
+}
